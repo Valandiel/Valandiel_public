@@ -1,5 +1,7 @@
 Readme
 
+Run the PCPT_GUI.py to use the program
+
 This program can be used to :
 
 - convert playlists to different file formats and change the directory of musics in that playlist appropriately (the directory can be chosen) for the following formats : 
